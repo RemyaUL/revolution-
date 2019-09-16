@@ -50,3 +50,7 @@ binary search
 ```markdown
 linear search
 ```
+## question no 11
+```markdown
+hash algo
+```
